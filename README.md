@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Onik Hasan
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning how to improve learning by algorithm in Data Science.
+- 👀 I’m interested in Software Test.
+- 🌱 I’m currently learning and working how to improve Software Quality. For detect bugs in the Software and want to improve the software quality.
 - 📫 How to reach me Email: onikhasanalok123@gmail.com
 
 <!---
